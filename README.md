@@ -30,14 +30,14 @@ Two computers, micro:bits, and cables were used to test.
 ### Testing Results
 
 
-* Run A (2023-04-17, left usb) (D1, M1, C1, U1)
+* Run A ([2023-04-17, left usb](serial_output_left_usb_port_D1M1C1U1)) (D1, M1, C1, U1)
     + Runs: 100. Failures: 7.
     + 2/100 - unable to decode hex file
     + 5/100 - transient
-* Run B (2023-04-17 right usb) (D1, M1, C1, U2)
+* Run B ([2023-04-17 right usb](serial_output_right_usb_D1M2C2U2)) (D1, M1, C1, U2)
     + Runs: 100. Failures: 4.
     + 4/100 - transient
-* Run C (2023-04-18, right usb) (C1, M2, C2, U2)
+* Run C ([2023-04-18, right usb](serial_output_right_usb_port_D1M1C1U2)) (C1, M2, C2, U2)
     + Runs: 100. Failures: 7.
     + 6/100 - transient
     + 1/100 - apparent corruption with `\x00` bytes in type?
