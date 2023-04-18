@@ -1,0 +1,50 @@
+Test: test_cp_file v1.0.1
+Using hex file: uhex-sectors-upy-longrecords.hex
+Capture serial: serial_output
+Waiting for MICROBIT drive...
+MICROBIT drive found: D:\
+Run 0:
+	Serial output file: serial_output\serial_0.txt
+	Copying file... done (26.84s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 1:
+	Serial output file: serial_output\serial_1.txt
+	Copying file... done (29.38s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 2:
+	Serial output file: serial_output\serial_2.txt
+	Copying file... done (25.57s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 3:
+	Serial output file: serial_output\serial_3.txt
+	Copying file... done (28.40s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 4:
+	Serial output file: serial_output\serial_4.txt
+	Copying file... done (29.26s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 5:
+	Serial output file: serial_output\serial_5.txt
+	Copying file... done (29.79s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 6:
+	Serial output file: serial_output\serial_6.txt
+	Copying file... done (27.91s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 7:
+	Serial output file: serial_output\serial_7.txt
+	Copying file... done (32.56s)

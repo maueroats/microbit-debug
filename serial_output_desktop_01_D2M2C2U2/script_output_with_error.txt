@@ -1,0 +1,47 @@
+Test: test_cp_file v1.0.1
+Using hex file: uhex-sectors-upy-longrecords.hex
+Capture serial: serial_output
+Waiting for MICROBIT drive...
+MICROBIT drive found: D:\
+Run 0:
+	Serial output file: serial_output\serial_0.txt
+	Copying file... done (25.11s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 1:
+	Serial output file: serial_output\serial_1.txt
+	Copying file... done (24.67s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 2:
+	Serial output file: serial_output\serial_2.txt
+	Copying file... done (27.36s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 3:
+	Serial output file: serial_output\serial_3.txt
+	Copying file... done (22.89s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 4:
+	Serial output file: serial_output\serial_4.txt
+	Copying file... done (26.76s)
+	Waiting for drive to unmount... done (0.00s)
+	Waiting for drive to mount... done (0.00s)
+	Result... success ✅
+Run 5:
+	Serial output file: serial_output\serial_5.txt
+	Copying file... done (23.58s)
+Traceback (most recent call last):
+  File "C:\Users\amauer-oats\Downloads\copyhex_v1.0.1\test_cp_file.py", line 383, in <module>
+    main(
+  File "C:\Users\amauer-oats\Downloads\copyhex_v1.0.1\test_cp_file.py", line 297, in main
+    copy_file_blocking(hex_file, hex_microbit)
+  File "C:\Users\amauer-oats\Downloads\copyhex_v1.0.1\test_cp_file.py", line 223, in copy_file_blocking
+    output.write(file_content)
+PermissionError: [Errno 13] Permission denied
+PS C:\Users\amauer-oats\Downloads\copyhex_v1.0.1> mv .\serial_output .\serial_output_desktop_01

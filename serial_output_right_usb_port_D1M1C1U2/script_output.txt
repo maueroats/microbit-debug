@@ -1,0 +1,625 @@
+Test: test_cp_file v1.0.1
+Using hex file: uhex-sectors-upy-longrecords.hex
+Capture serial: serial_output
+Waiting for MICROBIT drive...
+MICROBIT drive found: /media/MICROBIT
+Run 0:
+	Serial output file: serial_output/serial_0.txt
+	Copying file... done (26.59s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.47s)
+	Result... success ✅
+Run 1:
+	Serial output file: serial_output/serial_1.txt
+	Copying file... done (19.74s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 2:
+	Serial output file: serial_output/serial_2.txt
+	Copying file... done (26.50s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 3:
+	Serial output file: serial_output/serial_3.txt
+	Copying file... done (25.66s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 4:
+	Serial output file: serial_output/serial_4.txt
+	Copying file... done (25.74s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 5:
+	Serial output file: serial_output/serial_5.txt
+	Copying file... done (26.57s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 6:
+	Serial output file: serial_output/serial_6.txt
+	Copying file... done (27.55s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 7:
+	Serial output file: serial_output/serial_7.txt
+	Copying file... done (17.02s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 8:
+	Serial output file: serial_output/serial_8.txt
+	Copying file... done (21.36s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 9:
+	Serial output file: serial_output/serial_9.txt
+	Copying file... done (26.11s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 10:
+	Serial output file: serial_output/serial_10.txt
+	Copying file... done (16.09s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 11:
+	Serial output file: serial_output/serial_11.txt
+	Copying file... done (13.77s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 12:
+	Serial output file: serial_output/serial_12.txt
+	Copying file... done (17.84s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 13:
+	Serial output file: serial_output/serial_13.txt
+	Copying file... done (27.08s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.47s)
+	Result... success ✅
+Run 14:
+	Serial output file: serial_output/serial_14.txt
+	Copying file... done (17.39s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 15:
+	Serial output file: serial_output/serial_15.txt
+	Copying file... done (17.44s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 16:
+	Serial output file: serial_output/serial_16.txt
+	Copying file... done (26.59s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 17:
+	Serial output file: serial_output/serial_17.txt
+	Copying file... done (18.28s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 18:
+	Serial output file: serial_output/serial_18.txt
+	Copying file... done (20.09s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 19:
+	Serial output file: serial_output/serial_19.txt
+	Copying file... done (17.12s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 20:
+	Serial output file: serial_output/serial_20.txt
+	Copying file... done (11.80s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 21:
+	Serial output file: serial_output/serial_21.txt
+	Copying file... done (19.72s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 22:
+	Serial output file: serial_output/serial_22.txt
+	Copying file... done (36.59s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 23:
+	Serial output file: serial_output/serial_23.txt
+	Copying file... done (25.42s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... failed ❌
+	fail.txt contents: 
+		error: An error occurred during the transfer
+		type: transient
+		
+Run 24:
+	Serial output file: serial_output/serial_24.txt
+	Copying file... done (25.68s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 25:
+	Serial output file: serial_output/serial_25.txt
+	Copying file... done (26.10s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.50s)
+	Result... success ✅
+Run 26:
+	Serial output file: serial_output/serial_26.txt
+	Copying file... done (27.08s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 27:
+	Serial output file: serial_output/serial_27.txt
+	Copying file... done (26.45s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 28:
+	Serial output file: serial_output/serial_28.txt
+	Copying file... done (26.21s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 29:
+	Serial output file: serial_output/serial_29.txt
+	Copying file... done (26.28s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 30:
+	Serial output file: serial_output/serial_30.txt
+	Copying file... done (18.68s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 31:
+	Serial output file: serial_output/serial_31.txt
+	Copying file... done (17.76s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 32:
+	Serial output file: serial_output/serial_32.txt
+	Copying file... done (26.19s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.47s)
+	Result... success ✅
+Run 33:
+	Serial output file: serial_output/serial_33.txt
+	Copying file... done (25.64s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 34:
+	Serial output file: serial_output/serial_34.txt
+	Copying file... done (18.91s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 35:
+	Serial output file: serial_output/serial_35.txt
+	Copying file... done (17.96s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 36:
+	Serial output file: serial_output/serial_36.txt
+	Copying file... done (28.16s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 37:
+	Serial output file: serial_output/serial_37.txt
+	Copying file... done (26.57s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 38:
+	Serial output file: serial_output/serial_38.txt
+	Copying file... done (26.09s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 39:
+	Serial output file: serial_output/serial_39.txt
+	Copying file... done (25.65s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 40:
+	Serial output file: serial_output/serial_40.txt
+	Copying file... done (20.23s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 41:
+	Serial output file: serial_output/serial_41.txt
+	Copying file... done (20.60s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.50s)
+	Result... success ✅
+Run 42:
+	Serial output file: serial_output/serial_42.txt
+	Copying file... done (43.78s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.47s)
+	Result... success ✅
+Run 43:
+	Serial output file: serial_output/serial_43.txt
+	Copying file... done (25.23s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... failed ❌
+	fail.txt contents: 
+		error: An error occurred during the transfer
+		type: transient
+		
+Run 44:
+	Serial output file: serial_output/serial_44.txt
+	Copying file... done (19.24s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.49s)
+	Result... failed ❌
+	fail.txt contents: 
+		error: An error occurred during the transfer
+		type: transient
+		
+Run 45:
+	Serial output file: serial_output/serial_45.txt
+	Copying file... done (17.68s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 46:
+	Serial output file: serial_output/serial_46.txt
+	Copying file... done (26.66s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 47:
+	Serial output file: serial_output/serial_47.txt
+	Copying file... done (25.65s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 48:
+	Serial output file: serial_output/serial_48.txt
+	Copying file... done (26.66s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 49:
+	Serial output file: serial_output/serial_49.txt
+	Copying file... done (19.09s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 50:
+	Serial output file: serial_output/serial_50.txt
+	Copying file... done (48.66s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.46s)
+	Result... success ✅
+Run 51:
+	Serial output file: serial_output/serial_51.txt
+	Copying file... done (16.22s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... failed ❌
+	fail.txt contents: 
+		error: An error occurred during the transfer
+		type: transient
+		
+Run 52:
+	Serial output file: serial_output/serial_52.txt
+	Copying file... done (26.68s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 53:
+	Serial output file: serial_output/serial_53.txt
+	Copying file... done (25.19s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 54:
+	Serial output file: serial_output/serial_54.txt
+	Copying file... done (26.16s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 55:
+	Serial output file: serial_output/serial_55.txt
+	Copying file... done (25.17s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 56:
+	Serial output file: serial_output/serial_56.txt
+	Copying file... done (24.80s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 57:
+	Serial output file: serial_output/serial_57.txt
+	Copying file... done (25.16s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.47s)
+	Result... success ✅
+Run 58:
+	Serial output file: serial_output/serial_58.txt
+	Copying file... done (26.10s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 59:
+	Serial output file: serial_output/serial_59.txt
+	Copying file... done (25.65s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 60:
+	Serial output file: serial_output/serial_60.txt
+	Copying file... done (25.58s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 61:
+	Serial output file: serial_output/serial_61.txt
+	Copying file... done (18.72s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 62:
+	Serial output file: serial_output/serial_62.txt
+	Copying file... done (11.30s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 63:
+	Serial output file: serial_output/serial_63.txt
+	Copying file... done (19.04s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 64:
+	Serial output file: serial_output/serial_64.txt
+	Copying file... done (12.44s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 65:
+	Serial output file: serial_output/serial_65.txt
+	Copying file... done (12.62s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 66:
+	Serial output file: serial_output/serial_66.txt
+	Copying file... done (20.59s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 67:
+	Serial output file: serial_output/serial_67.txt
+	Copying file... done (17.20s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 68:
+	Serial output file: serial_output/serial_68.txt
+	Copying file... done (18.75s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 69:
+	Serial output file: serial_output/serial_69.txt
+	Copying file... done (19.28s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.50s)
+	Result... success ✅
+Run 70:
+	Serial output file: serial_output/serial_70.txt
+	Copying file... done (15.42s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 71:
+	Serial output file: serial_output/serial_71.txt
+	Copying file... done (25.60s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 72:
+	Serial output file: serial_output/serial_72.txt
+	Copying file... done (26.58s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 73:
+	Serial output file: serial_output/serial_73.txt
+	Copying file... done (25.54s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 74:
+	Serial output file: serial_output/serial_74.txt
+	Copying file... done (26.14s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 75:
+	Serial output file: serial_output/serial_75.txt
+	Copying file... done (26.69s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 76:
+	Serial output file: serial_output/serial_76.txt
+	Copying file... done (25.68s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 77:
+	Serial output file: serial_output/serial_77.txt
+	Copying file... done (25.98s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.47s)
+	Result... success ✅
+Run 78:
+	Serial output file: serial_output/serial_78.txt
+	Copying file... done (28.07s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 79:
+	Serial output file: serial_output/serial_79.txt
+	Copying file... done (25.78s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 80:
+	Serial output file: serial_output/serial_80.txt
+	Copying file... done (25.19s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.47s)
+	Result... success ✅
+Run 81:
+	Serial output file: serial_output/serial_81.txt
+	Copying file... done (26.16s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 82:
+	Serial output file: serial_output/serial_82.txt
+	Copying file... done (28.07s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 83:
+	Serial output file: serial_output/serial_83.txt
+	Copying file... done (26.14s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 84:
+	Serial output file: serial_output/serial_84.txt
+	Copying file... done (26.18s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 85:
+	Serial output file: serial_output/serial_85.txt
+	Copying file... done (25.56s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.46s)
+	Result... success ✅
+Run 86:
+	Serial output file: serial_output/serial_86.txt
+	Copying file... done (25.57s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 87:
+	Serial output file: serial_output/serial_87.txt
+	Copying file... done (17.52s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 88:
+	Serial output file: serial_output/serial_88.txt
+	Copying file... done (19.47s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 89:
+	Serial output file: serial_output/serial_89.txt
+	Copying file... done (26.16s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 90:
+	Serial output file: serial_output/serial_90.txt
+	Copying file... done (26.11s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 91:
+	Serial output file: serial_output/serial_91.txt
+	Copying file... done (16.22s)
+	Waiting for drive to unmount... done (0.02s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 92:
+	Serial output file: serial_output/serial_92.txt
+	Copying file... done (12.77s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 93:
+	Serial output file: serial_output/serial_93.txt
+	Copying file... done (17.34s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 94:
+	Serial output file: serial_output/serial_94.txt
+	Copying file... done (18.47s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 95:
+	Serial output file: serial_output/serial_95.txt
+	Copying file... done (17.26s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 96:
+	Serial output file: serial_output/serial_96.txt
+	Copying file... done (18.47s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 97:
+	Serial output file: serial_output/serial_97.txt
+	Copying file... done (26.07s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.48s)
+	Result... success ✅
+Run 98:
+	Serial output file: serial_output/serial_98.txt
+	Copying file... done (20.72s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+Run 99:
+	Serial output file: serial_output/serial_99.txt
+	Copying file... done (22.69s)
+	Waiting for drive to unmount... done (0.01s)
+	Waiting for drive to mount... done (0.49s)
+	Result... success ✅
+
+Total asserts: 0/100
+
+Total failures: 4/100
