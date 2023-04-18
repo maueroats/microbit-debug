@@ -5,7 +5,7 @@ The uploads too regularly fail with a 504 error.
 
 This repository contains data from several runs of the `copyhex`
 program used to test transfers. See the [micro:bit DAPlink
-repository(]https://github.com/microbit-foundation/DAPLink/issues/16)
+repository](https://github.com/microbit-foundation/DAPLink/issues/16)
 for information.
 
 Two computers, micro:bits, and cables were used to test.
