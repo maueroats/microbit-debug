@@ -24,7 +24,8 @@ Two computers, micro:bits, and cables were used to test.
 * Two different USB cables (C1 and C2).
 
 * On computer D1, both the left (label: U1) and right (label: U2)
-  usb ports were tested. On computer D2 only one port was tested.
+  usb ports were tested. On computer D2 only one port was tested
+  (label: U3).
 
 
 ### Testing Results
@@ -37,21 +38,21 @@ Two computers, micro:bits, and cables were used to test.
 * Run B ([2023-04-17 right usb](serial_output_right_usb_D1M2C2U2)) (D1, M1, C1, U2)
     + Runs: 100. Failures: 4.
     + 4/100 - transient
-* Run C ([2023-04-18, right usb](serial_output_right_usb_port_D1M1C1U2)) (C1, M2, C2, U2)
+* Run C ([2023-04-18, right usb](serial_output_right_usb_port_D1M1C1U2)) (D1, M2, C2, U2)
     + Runs: 100. Failures: 7.
     + 6/100 - transient
     + 1/100 - apparent corruption with `\x00` bytes in type?
-* Run D attempts.
+* Run D attempts on Computer D2 with M2, C2, and U3.
     + Four attempts at running the test script on Windows
     + Each one ends in an error after different amounts of time.
     * [5 success, 1 permission
-      denied](serial_output_desktop_01_D2M2C2U2/script_output_with_error.txt)
+      denied](serial_output_desktop_01_D2M2C2U3/script_output_with_error.txt)
     * [17 success, 1 invalid
-      argument](serial_output_desktop_02_D2M2C2U2/script_output_with_error.txt)
+      argument](serial_output_desktop_02_D2M2C2U3/script_output_with_error.txt)
     * [8 success, 1 permission
-      denied](serial_output_desktop_03_D2M2C2U2/script_output_with_error.txt)
+      denied](serial_output_desktop_03_D2M2C2U3/script_output_with_error.txt)
     * [6 success, 1 invalid
-      argument](serial_output_desktop_04_D2M2C2U2/script_output_with_error.txt)
+      argument](serial_output_desktop_04_D2M2C2U3/script_output_with_error.txt)
 
 I think in my Windows environment, the testing script is not prepared
 to handle the problems that come up.
